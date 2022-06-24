@@ -8,7 +8,7 @@ const GET_LESSONS_QUERY = gql `
             slug
             title
             lessonType
-        availableAt
+            availableAt
         }
     }
 `
